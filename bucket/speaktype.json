@@ -4,7 +4,7 @@
     "homepage": "https://speaktype.zalize.com",
     "license": "MIT",
     "url": "https://github.com/wookat/speaktype/releases/download/v0.17.0/SpeakType-0.17.0-portable.exe#/SpeakType.exe",
-    "hash": "497492ffd81b366c3e1a746762af1b7de9aac1a30ebc0db6b978a7edb0d09146",
+    "hash": "9e0a3aae87223febfc0305c24a4ecac7c2fc4045a684a9ecd013bd7cdacad84a",
     "bin": "SpeakType.exe",
     "shortcuts": [
         [
